@@ -1,4 +1,4 @@
-Flash Player wrapper
+Flash Player Wrapper
 ====================
 
 Description
